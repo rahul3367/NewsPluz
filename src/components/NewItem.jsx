@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-
+// basically the card for the news 
 const NewItem =(props)=>{
         const { title, description, imageUrl, newsUrl, date, source } = {props};
         return (
