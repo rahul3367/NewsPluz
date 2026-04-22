@@ -12,10 +12,6 @@
 ## Technologies Used
 - **Frontend:** React, Bootstrap
 
-## Current Issues
-
-
-
 ## Screenshots
 
 ![alt text](image.png)
